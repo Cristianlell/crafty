@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "nombre": "cristian",
+    "email": "cristianlell24@gmail.com",
+    "contrasenia": "$2a$10$JYIfMQjyKVqJ8HbR56LhveXAbAj09Qe1oA96oLTqGTtRlTr7mj4r6",
+    "pais": "AR",
+    "genero": "n",
+    "hobbies": [
+      "programacion"
+    ],
+    "rol": "admin"
+  }
+]

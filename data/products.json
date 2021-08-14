@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "title": "Iphone SE",
+    "description": "lorem ipsum dolor amet sit            ",
+    "price": 100,
+    "image": "img-phone-01.jpg",
+    "category": "nuevo"
+  },
+  {
+    "id": 2,
+    "title": "Samsung A02",
+    "description": "lorem ipsum dolor amet sit",
+    "price": 100,
+    "image": "img-phone-02.jpg",
+    "category": "usado"
+  },
+  {
+    "id": 3,
+    "title": "Hyundai K4",
+    "description": "lorem ipsum dolor amet sit",
+    "price": 100,
+    "image": "img-phone-03.png",
+    "category": "refaccionado"
+  },
+  {
+    "id": 4,
+    "title": "Motorola G9",
+    "description": "lorem ipsum dolor amet sit",
+    "price": 100,
+    "image": "img-phone-04.png",
+    "category": "refaccionado"
+  },
+  {
+    "id": 5,
+    "title": "LG Luminus",
+    "description": "lorem ipsum dolor amet sit                             ",
+    "price": 300,
+    "image": "img-phone-05.jpg",
+    "category": "nuevo"
+  },
+  {
+    "id": 6,
+    "title": "Nokia 1100",
+    "description": "lorem ipsum dolor amet sit",
+    "price": 100,
+    "image": "img-phone-06.png",
+    "category": "usado"
+  },
+  {
+    "id": 7,
+    "title": "Iphone SE",
+    "description": "lorem ipsum dolor amet sit",
+    "price": 100,
+    "image": "img-phone-01.jpg",
+    "category": "nuevo"
+  },
+  {
+    "id": 8,
+    "title": "Samsung A02",
+    "description": "lorem ipsum dolor amet sit",
+    "price": 100,
+    "image": "img-phone-02.jpg",
+    "category": "usado"
+  },
+  {
+    "id": 9,
+    "title": "Hyundai K4",
+    "description": "lorem ipsum dolor amet sit",
+    "price": 100,
+    "image": "img-phone-03.png",
+    "category": "refaccionado"
+  },
+  {
+    "id": 10,
+    "title": "Motorola G9",
+    "description": "lorem ipsum dolor amet sit",
+    "price": 100,
+    "image": "img-phone-04.png",
+    "category": "refaccionado"
+  },
+  {
+    "id": 11,
+    "title": "LG Luminus",
+    "description": "lorem ipsum dolor amet sit",
+    "price": 100,
+    "image": "img-phone-05.jpg",
+    "category": "nuevo"
+  },
+  {
+    "id": 12,
+    "title": "Nokia 1100",
+    "description": "lorem ipsum dolor amet sit",
+    "price": 100,
+    "image": "img-phone-06.png",
+    "category": "usado"
+  },
+  {
+    "id": 13,
+    "title": "Iphone X",
+    "description": "carísimo pero copadoo  ",
+    "price": 1000,
+    "image": "default-image.png",
+    "category": "nuevo"
+  },
+  {
+    "id": 14,
+    "title": "Iphone X2",
+    "description": "más caro todavía",
+    "price": 2000,
+    "image": "default-image.png",
+    "category": "nuevo"
+  },
+  {
+    "id": 15,
+    "title": "Product example",
+    "description": "Lorem ipsum dolor amet sit",
+    "price": 100,
+    "image": "default-image.png",
+    "category": "usado"
+  },
+  {
+    "id": 16,
+    "title": "LG Luminus",
+    "description": "Está bueno y barato",
+    "price": 123,
+    "image": "default-image.png",
+    "category": "refaccionado"
+  },
+  {
+    "id": 17,
+    "title": "Iphone X2",
+    "description": "Carísimooooo",
+    "price": 12645,
+    "image": "default-image.png",
+    "category": "nuevo"
+  },
+  {
+    "id": 18,
+    "title": "Motorola X-Play",
+    "description": "Esta está mejor que cualquiera!!",
+    "price": 123,
+    "image": "default-image.png",
+    "category": "usado"
+  }
+]

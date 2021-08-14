@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<%- include('./partials/head')  %> 
+<body class="productAdd">
+    <%- include('./partials/header')  %> 
+    <div class="container">
+        <div class="formulario w-75">
+            <div class="card mb-3  p-5">
+                <div class="row g-0">
+                  <div class="col-md-4">
+                    <img src="/images/<%= producto.image %>" class="img-fluid rounded-start" alt="...">
+                  </div>
+                  <div class="col-md-8">
+                    <div class="card-body">
+                      <h5 class="card-title"><%= producto.title %> </h5>
+                      <p class="card-text"><%= producto.description %> </p>
+                      <h4 class="card-text"><small>u$s</small> <%= producto.price.toFixed(2) %> </h4>
+                    </div>
+                    <% if (locals.isLogged && locals.userLog.rol === 'admin') { %> 
+                      <div class="d-flex flex-justify-content-around flex-wrap">
+                        <a class="btn btn-success ms-2" href="/products/edit/<%= producto.id %>">editar</a>
+                        <form action="/products/remove/<%= producto.id %>?_method=DELETE" method="POST">
+                            <button class="btn btn-danger ms-2">Eliminar</button>
+                        </form>
+                        <% } %>
+                        <a href="/" class="btn btn-primary ms-2 ">Volver</a>
+                      </div>
+                  </div>               
+                </div>
+              </div>
+        </div>
+       
+    </div>
+
+
+
+
+
+    <%- include('./partials/scripts')  %> 
+</body>
+</html>
